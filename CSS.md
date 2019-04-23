@@ -41,4 +41,4 @@ Here are some silly ideas from the Introduction to HTML doc that you can use her
 
 You can try out all these ideas here - [https://glitch.com/](https://glitch.com/) . Glitch is a great place to try out new ideas and share the results.
 
-**Note** - A lot of learning happens on our community Slack channel. If you aren't there already, click here to join the community.
+**Note** - A lot of learning happens on our community Slack channel. If you aren't there already, [click here](https://join.slack.com/t/proso-io/shared_invite/enQtNjAyNjA3MzY4MDY3LWI4MDFmMzQwNjkyNjdhMGQyOTYzNjM4YTllOTkxYjI5YzY4NmFjMDhiMTM2ZWNlMGI1NzEwMzAxOTc0YTgwYzA) to join the community.
