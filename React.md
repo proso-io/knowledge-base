@@ -13,6 +13,10 @@ If you don't know basic JavaScript, please first start there, you will need to k
 
 Introduction to JavaScript is here - https://github.com/proso-io/knowledge-base/blob/master/JavaScript.md
 
+## React 
+
+** Proceed only if you have a basic understanding of JavaScript and HTML
+
 Okay, on to React! The most fundamental tutorial on React can be found on the React website itself. It has a nice balance between theory and practice and so we would highly recommend it. 
 
 Here's where you can find it - https://reactjs.org/tutorial/tutorial.html
