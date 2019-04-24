@@ -24,3 +24,6 @@ Here are some silly ideas to make this a bit more interesting (about me pages ar
 
 
 Don’t worry if you are starting small. No front-end developer knows all tags or even uses them on a day to day basis. Everyone googles. So, don’t worry if you don’t remember the tags. Just take the gist and have fun :)
+
+
+**Note** - A lot of learning happens on our community Slack channel. If you aren't there already, [click here](https://join.slack.com/t/proso-io/shared_invite/enQtNjAyNjA3MzY4MDY3LWI4MDFmMzQwNjkyNjdhMGQyOTYzNjM4YTllOTkxYjI5YzY4NmFjMDhiMTM2ZWNlMGI1NzEwMzAxOTc0YTgwYzA) to join the community.
