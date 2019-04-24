@@ -69,3 +69,5 @@
 <span class="c4"></span>
 
 <span class="c4"></span>
+
+**Note** - A lot of learning happens on our community Slack channel. If you aren't there already, [click here](https://join.slack.com/t/proso-io/shared_invite/enQtNjAyNjA3MzY4MDY3LWI4MDFmMzQwNjkyNjdhMGQyOTYzNjM4YTllOTkxYjI5YzY4NmFjMDhiMTM2ZWNlMGI1NzEwMzAxOTc0YTgwYzA) to join the community.
