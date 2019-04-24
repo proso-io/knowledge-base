@@ -8,9 +8,9 @@ As the client libraries got better and the JavaScript layers got thicker, someon
 
 > Hey, if I am showing the same navbar, the same footer and the same JS file for each route, why do I need to send it across the wire each time? Can't the client only ask for what it needs?
 
-The question had merit and so began client-side routing. Simply put, clients trade with servers on data while they hold the markup required to render different routes. This way, whenever a route changes, only th differences are rerendered, the rest of the page stays as is. 
+The question had merit and so began client-side routing. Simply put, clients trade with servers on data while it holds the markup required to render different routes. This way, whenever a route changes, only the differences are rerendered, the rest of the page stays as is. 
 
-The implementation of client-side routing is not straight-forward and is wrought with browser quirks. Here are some articles to check out if you are curious how client-side routing works - 
+The implementation of client-side routing is not straight-forward and is wrought with browser quirks. Here are some articles to check out if you are curious how it works - 
 
 1. https://stackoverflow.com/a/37062379
 2. http://krasimirtsonev.com/blog/article/deep-dive-into-client-side-routing-navigo-pushstate-hash
