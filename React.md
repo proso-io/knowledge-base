@@ -15,7 +15,7 @@ Introduction to JavaScript is here - https://github.com/proso-io/knowledge-base/
 
 ## React 
 
-** Proceed only if you have a basic understanding of JavaScript and HTML
+**Proceed only if you have a basic understanding of JavaScript and HTML**
 
 Okay, on to React! The most fundamental tutorial on React can be found on the React website itself. It has a nice balance between theory and practice and so we would highly recommend it. 
 
