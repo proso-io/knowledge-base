@@ -1,6 +1,6 @@
 Responsive design became a big deal 5 years ago, everyone was doing it. Today, the state of the affairs is such that responsiveness isn't even a feature, its a requirement - a hard requirement that any site that takes itself seriously needs to meet. 
 
-E-commerce has the best stats to explain why this is so. Year after year, the number of people using mobile devices for browsing have increased. Today, mobile is the primary browsing device while the desktop has taken a back seat, used only in some rare, specific scenarios.
+E-commerce has the best stats to explain why this is so. Year after year, the number of people using mobile devices for browsing has increased. Today, mobile is the primary browsing device while the desktop has taken a back seat, used only in some rare, specific scenarios.
 
 Responsive design is about showing a version of your site that's most optimized for the user's device, no matter what it might be. This is the evolved definition, responsive design started as showing a mobile acceptable version of your desktop site. 
 
